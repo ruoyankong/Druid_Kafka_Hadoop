@@ -1,0 +1,6 @@
+{
+    "ClusterArn": "arn:aws:kafka:us-east-1:749322395881:cluster/AWSKafkaTutorialCluster/a51123fa-9084-4d31-8b7d-d4d98110d234-4",
+    "ClusterName": "AWSKafkaTutorialCluster",
+    "State": "CREATING"
+}
+

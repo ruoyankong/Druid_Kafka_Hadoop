@@ -1,0 +1,3 @@
+#!/home/ruoyan/Documents/hw/5751/druid_project/venv/bin/python
+from numba.pycc import main
+main()

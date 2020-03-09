@@ -1,0 +1,8 @@
+#!/home/ruoyan/Documents/hw/5751/druid_project/venv/bin/python
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.numba_entry import main
+
+if __name__ == "__main__":
+    main()
